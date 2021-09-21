@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpaceShip_Kotlin</string>
+    <string name="str_btn">Start!</string>
+    <string name="txt_2">Бюджет для U2 :</string>
+    <string name="txt_1">Бюджет для U1 :</string>
+    <string name="txt_sum">0000$</string>
+    <string name="todo">TODO</string>
+</resources>
